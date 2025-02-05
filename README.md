@@ -1,3 +1,3 @@
-# SDY60_GE2_APOSTOLIS_ODYS
+# SDY60_GE_APOSTOLIS_ODYS
 
-Στο παρών repository υπάρχουν οι απαντήσεις των ερωτήσεων της ΓΕ2.
+Στο παρών repository υπάρχουν οι απαντήσεις των ερωτήσεων των ΓΕ
